@@ -4,8 +4,8 @@
 
 <br><br>
 
-[![Facebook](https://img.shields.io/badge/Facebook-0EA5E9?style=flat-square&labelColor=0A1E3C)](https://web.facebook.com/profile.php?id=CHUA_DIEN_LINK)
-[![Email](https://img.shields.io/badge/Email-22D3EE?style=flat-square&labelColor=0A1E3C)](mailto:chua-dien-email@utt.edu.vn)
+[![Facebook](https://img.shields.io/badge/Facebook-0EA5E9?style=flat-square&labelColor=0A1E3C)](https://www.facebook.com/profile.php?id=100076017564067)
+[![Email](https://img.shields.io/badge/Email-22D3EE?style=flat-square&labelColor=0A1E3C)](mailto:utt.uav.club@gmail.com)
 [![Hanoi](https://img.shields.io/badge/Ha%20Noi-6366F1?style=flat-square&labelColor=0A1E3C)](#)
 
 </div>
@@ -118,8 +118,8 @@ Liên hệ với chúng tôi qua các kênh bên dưới.
 
 | | |
 | --- | --- |
-| **Facebook** | [UTT UAV Club](https://web.facebook.com/profile.php?id=CHUA_DIEN_LINK) |
-| **Email** | chua-dien-email@utt.edu.vn |
+| **Facebook** | [UTT UAV Club](https://www.facebook.com/profile.php?id=100076017564067) |
+| **Email** | utt.uav.club@gmail.com |
 | **Địa chỉ** | Trường Đại học Công nghệ Giao thông Vận tải, Hà Nội |
 
 <br>
