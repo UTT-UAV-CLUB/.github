@@ -120,7 +120,7 @@ Liên hệ với chúng tôi qua các kênh bên dưới.
 | --- | --- |
 | **Facebook** | [UTT UAV Club](https://www.facebook.com/profile.php?id=100076017564067) |
 | **Email** | utt.uav.club@gmail.com |
-| **Địa chỉ** | Trường Đại học Công nghệ Giao thông Vận tải, Hà Nội |
+| **Địa chỉ** | Phòng 102, Nhà Chuyên Gia, Trường Đại học Công nghệ Giao thông Vận tải, Hà Nội |
 
 <br>
 
