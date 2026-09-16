@@ -20,6 +20,18 @@
 
 <br>
 
+## Bắt đầu từ đâu
+
+> [!TIP]
+> **Mới vào câu lạc bộ, hoặc đang cân nhắc tham gia?**
+> Đọc **[Định hướng cho thành viên mới](https://github.com/UTT-UAV-CLUB/Dinh-huong)** trước.
+
+Tài liệu đó trả lời đúng câu hỏi mà hầu hết người mới đang mắc: *muốn làm drone tự bay / AI nhận diện / hệ thống IoT thì phải bắt đầu học từ đâu?*
+
+Nội dung gồm: bốn nền nghề để bạn chọn một hướng đi sâu, ba mảng sản phẩm câu lạc bộ đang làm, bài tự kiểm tra để biết mình đang ở đâu, và bài tự chấm cho từng nền. Không yêu cầu kiến thức nền trước khi đọc.
+
+<br>
+
 ## Hướng nghiên cứu
 
 <table>
@@ -73,14 +85,22 @@ Trạm điều khiển mặt đất, giao thức MAVLink, đường truyền rad
 
 ## Kho mã nguồn
 
-> [!NOTE]
-> Các dự án của câu lạc bộ đang trong quá trình chuyển về tổ chức này. Kho mã nguồn công khai sẽ lần lượt được liệt kê bên dưới khi hoàn tất.
-
 | Kho mã nguồn | Mô tả |
 | --- | --- |
-| *sắp có* | |
+| [**Dinh-huong**](https://github.com/UTT-UAV-CLUB/Dinh-huong) | Định hướng cho thành viên mới — mỗi mảng cần nền gì, học gì, bắt đầu từ đâu |
 
-Thành viên đăng nhập và mở tab **Repositories** để xem đầy đủ các kho riêng tư mà mình có quyền truy cập.
+> [!NOTE]
+> Phần lớn kho mã nguồn của câu lạc bộ đang để **riêng tư**: dự án còn đang phát triển, bài dự thi, hoặc có ràng buộc với đối tác. Các kho công khai sẽ lần lượt được liệt kê ở đây.
+
+**Muốn xem các kho riêng tư?** Liên hệ ban quản lý câu lạc bộ để được thêm vào tổ chức.
+
+| | |
+| --- | --- |
+| **Cách liên hệ** | Nhắn [Facebook](https://www.facebook.com/profile.php?id=100076017564067) hoặc gửi email tới utt.uav.club@gmail.com |
+| **Cần cung cấp** | Họ tên, khoa/lớp, tên tài khoản GitHub của bạn, và mảng bạn đang tham gia |
+| **Sau khi được duyệt** | Bạn nhận lời mời qua email đã đăng ký GitHub — bấm chấp nhận, rồi mở tab **Repositories** để xem các kho mình có quyền truy cập |
+
+Thành viên đã ở trong tổ chức mà không thấy kho mình cần: nhắn người phụ trách mảng đó, quyền truy cập được cấp theo từng nhóm.
 
 <br>
 
@@ -109,6 +129,8 @@ Hướng dẫn chi tiết: [CONTRIBUTING.md](https://github.com/UTT-UAV-CLUB/.gi
 ## Tham gia cùng chúng tôi
 
 Chúng tôi chào đón sinh viên từ mọi khoa muốn làm việc với phần cứng bay thật — dù thế mạnh của bạn là firmware, điện tử, lý thuyết điều khiển, thị giác máy tính hay thiết kế cơ khí. Không yêu cầu kinh nghiệm từ trước; điều cần là sự tò mò và theo được đến cùng.
+
+Chưa biết mình hợp với mảng nào? Đọc **[Định hướng cho thành viên mới](https://github.com/UTT-UAV-CLUB/Dinh-huong)** — tài liệu mô tả rõ từng hướng để bạn tự thấy mình hợp với cái gì trước khi đăng ký.
 
 Liên hệ với chúng tôi qua các kênh bên dưới.
 
