@@ -104,28 +104,6 @@ Thành viên đã ở trong tổ chức mà không thấy kho mình cần: nhắ
 
 <br>
 
-## Quy trình đóng góp
-
-Mọi thay đổi đi vào `main` đều phải qua Pull Request — không push thẳng.
-
-```text
- main                    ổn định, đã kiểm chứng trên phần cứng thật
- dev                     nhánh tích hợp
- feat/<tên>-<nội dung>   nhánh làm việc của bạn
-```
-
-1. Tạo nhánh mới tách ra từ `dev`.
-2. Commit thành từng bước nhỏ, thông điệp rõ ràng.
-3. Mở Pull Request và yêu cầu review từ nhóm phụ trách mảng đó.
-4. Không đưa file nhị phân lớn vào Git.
-
-> [!IMPORTANT]
-> Log bay, rosbag và video FPV phải để trên kho lưu trữ chung của lab, chỉ ghi đường dẫn vào `README` của kho mã nguồn. Đẩy lên Git là kho phình vĩnh viễn và không gỡ ra được.
-
-Hướng dẫn chi tiết: [CONTRIBUTING.md](https://github.com/UTT-UAV-CLUB/.github/blob/main/CONTRIBUTING.md)
-
-<br>
-
 ## Tham gia cùng chúng tôi
 
 Chúng tôi chào đón sinh viên từ mọi khoa muốn làm việc với phần cứng bay thật — dù thế mạnh của bạn là firmware, điện tử, lý thuyết điều khiển, thị giác máy tính hay thiết kế cơ khí. Không yêu cầu kinh nghiệm từ trước; điều cần là sự tò mò và theo được đến cùng.
