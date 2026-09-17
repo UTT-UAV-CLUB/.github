@@ -88,6 +88,10 @@ Trạm điều khiển mặt đất, giao thức MAVLink, đường truyền rad
 | Kho mã nguồn | Mô tả |
 | --- | --- |
 | [**Dinh-huong**](https://github.com/UTT-UAV-CLUB/Dinh-huong) | Định hướng cho thành viên mới — mỗi mảng cần nền gì, học gì, bắt đầu từ đâu |
+| [**a.i-set-up-pi5**](https://github.com/UTT-UAV-CLUB/a.i-set-up-pi5.git) | Hướng Dẫn Cài Đặt Raspberry Pi 5 |
+| [**a.i-pi5-object-detection-with-coral**](https://github.com/UTT-UAV-CLUB/a.i-pi5-object-detection-with-coral.git) | Nhận diện vật thể trên Raspberry Pi 5 với Google Coral USB |
+| [**hw-custom-arduino**](https://github.com/UTT-UAV-CLUB/hw-custom-arduino-board-design.git) | Mạch arduino tự làm |
+| [**fw-delivery_drone_UI-UX_demo**](https://github.com/UTT-UAV-CLUB/fw-delivery_drone_UI-UX_demo.git) | Web giao hàng demo |
 
 > [!NOTE]
 > Phần lớn kho mã nguồn của câu lạc bộ đang để **riêng tư**: dự án còn đang phát triển, bài dự thi, hoặc có ràng buộc với đối tác. Các kho công khai sẽ lần lượt được liệt kê ở đây.
